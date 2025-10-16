@@ -1,4 +1,3 @@
-// Input array
 const students = [
   { name: "Alice", score: 85 },
   { name: "Bob", score: 92 },
